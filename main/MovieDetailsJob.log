@@ -1,0 +1,8 @@
+2021-02-09 13:41:30,912 - INFO - job run started
+2021-02-09 13:41:30,914 - INFO - extract run started
+2021-02-09 13:41:31,710 - INFO - extract run completed
+2021-02-09 13:41:31,711 - INFO - transform run started
+2021-02-09 13:41:32,358 - INFO - NumExpr defaulting to 4 threads.
+2021-02-09 13:57:19,714 - INFO - transform run completed
+2021-02-09 13:57:19,715 - INFO - insert run started
+2021-02-09 14:17:43,997 - INFO - insert run completed
